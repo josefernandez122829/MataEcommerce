@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name":" LD01 LOUNGE CHAIR",
+        "price": 38.00,
+        "salePrice": 0,
+        "image": "img/product_img1.png"
+    },
+    {
+        "id": 2,
+        "name":" LD02 LOUNGE CHAIR",
+        "price": 5.77,
+        "salePrice": 7.34,
+        "image": "img/product_img2.png"
+    },
+    {
+        "id": 3,
+        "name":" LD03 LOUNGE CHAIR",
+        "price": 39,
+        "salePrice": 29.00,
+        "image": "img/product_img3.png"
+    },
+    {
+        "id": 4,
+        "name":" LD04 LOUNGE CHAIR",
+        "price": 45.99,
+        "salePrice": 0,
+        "image": "img/product_img4.png"
+    },
+    {
+        "id": 5,
+        "name":" LD05 LOUNGE CHAIR",
+        "price": 99.95,
+        "salePrice": 69.00,
+        "image": "img/product_img5.png"
+    }
+]
